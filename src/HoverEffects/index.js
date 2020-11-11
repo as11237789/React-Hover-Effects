@@ -4,7 +4,6 @@ import HoverEffects from './HoverEffect'
 import img1 from './images/1.png'
 import img2 from './images/2.png'
 import img4 from './images/4.png'
-import img5 from './images/5.png'
 class Index extends React.Component {
     constructor(props){
         super(props);
