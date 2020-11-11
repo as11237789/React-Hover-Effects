@@ -10,7 +10,6 @@ class HoverEffect extends React.Component {
                     <figcaption>
                         <h3>{this.props.h3}</h3>
                         <span>{this.props.span}</span>
-                        <a>{this.props.a}</a>
                     </figcaption>
                 </figure>
             </div>
